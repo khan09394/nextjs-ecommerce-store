@@ -18,7 +18,6 @@ export const metadata: Metadata = {
   title: 'ZK Collections — Luxury Perfumes',
   description: 'Discover exquisite fragrances crafted for the discerning individual. Premium perfumes from ZK Collections.',
   generator: 'v0.app',
-  verification:{google:"QD9HgHrFjJLTv-_UL8K51lMN7NKkDHZYR1CEHvHcWtk"},
   icons: {
     icon: [
       {
@@ -45,6 +44,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className={`${inter.variable} ${playfair.variable}`}>
+      <meta name="google-site-verification" content="QD9HgHrFjJLTv-_UL8K51lMN7NKkDHZYR1CEHvHcWtk" />
       <body className="font-sans antialiased">
         <CartProvider>
           {children}
