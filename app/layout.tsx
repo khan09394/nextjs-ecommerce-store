@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   title: 'ZK Collections — Luxury Perfumes',
   description: 'Discover exquisite fragrances crafted for the discerning individual. Premium perfumes from ZK Collections.',
   generator: 'v0.app',
-  verification:{google:"QD9HgHrFjJLTv-_UL8K51lMN7NKkDHZYR1CEHvHcWtk"}
+  verification:{google:"QD9HgHrFjJLTv-_UL8K51lMN7NKkDHZYR1CEHvHcWtk"},
   icons: {
     icon: [
       {
