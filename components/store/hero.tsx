@@ -23,10 +23,11 @@ export function Hero() {
         <h1 className="font-serif text-5xl md:text-6xl lg:text-7xl tracking-tight text-primary-foreground text-balance leading-tight">
           Discover Your <br />
           <span className="text-accent">Signature Scent</span>
+          <span className="text-accent">experience their charm</span>
         </h1>
         <p className="mt-6 text-lg md:text-xl text-primary-foreground/80 max-w-2xl mx-auto text-pretty leading-relaxed">
           Exquisite perfumes crafted with the finest ingredients from around the world. 
-          Each fragrance tells a unique story.
+          Each fragrance tells a unique story.Crafted with the finest ingredients,our prefect blend of scents will captivate your senses and loves you in a world of elegance and aliure.
         </p>
         <div className="mt-10 flex flex-col sm:flex-row items-center justify-center gap-4">
           <Button 
