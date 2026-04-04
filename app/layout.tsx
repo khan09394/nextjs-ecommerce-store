@@ -44,7 +44,6 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className={`${inter.variable} ${playfair.variable}`}>
-      <meta name="google-site-verification" content="QD9HgHrFjJLTv-_UL8K51lMN7NKkDHZYR1CEHvHcWtk" />
       <body className="font-sans antialiased">
         <CartProvider>
           {children}
