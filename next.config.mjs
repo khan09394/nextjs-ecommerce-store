@@ -6,8 +6,9 @@ const nextConfig = {
   images: {
     unoptimized: true,
     output: export,
-    basepath:'/nextjs-ecommerce-8s'
-    assetprefix:'/nextjs-ecommerce-dtore/'
+    trailingSlash:True,
+    basepath:'/nextjs-ecommerce-8s',
+    assetprefix:'/nextjs-ecommerce-store-8s/',
   },
 }
 
