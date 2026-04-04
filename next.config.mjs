@@ -7,8 +7,8 @@ const nextConfig = {
     unoptimized: true,
     output: export,
     trailingSlash:True,
-    basepath:'/nextjs-ecommerce-8s',
-    assetprefix:'/nextjs-ecommerce-store-8s/',
+    basepath:'/nextjs-ecommerce-store',
+    assetprefix:'/nextjs-ecommerce-store/',
   },
 }
 
